@@ -1,0 +1,13 @@
+name: JobMatcher
+title: JobMatcher
+username:
+account: rafabelokurows
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5483738
+bundleId: 5493892
+url: https://rafabelokurows.shinyapps.io/JobMatcher/
+when: 1642784718.74019
+lastSyncTime: 1642784718.74019
+asMultiple: FALSE
+asStatic: FALSE
